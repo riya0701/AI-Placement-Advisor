@@ -2,7 +2,7 @@
 
 AI‑powered Streamlit app that analyzes your resume and gives you career role suggestions based on your skills, CGPA, and certifications — with skill-gap analysis!
 
-[![Open in Streamlit](https://ai-placement-advisor-kykyqqtsxehzjjresbpkre.streamlit.app/)](https://ai-placement-advisor-kykyqqtsxehzjjresbpkre.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-placement-advisor-kykyqqtsxehzjjresbpkre.streamlit.app/)
 
 ---
 
@@ -18,12 +18,13 @@ AI‑powered Streamlit app that analyzes your resume and gives you career role s
 
 ## 🚀 Quick Start
 
-bash
+```bash
 git clone https://github.com/riya0701/AI-Placement-Advisor.git
 cd ai-placement-advisor
 pip install -r requirements.txt
 streamlit run app.py
 
+```
    
 
 
@@ -63,14 +64,14 @@ streamlit run app.py
 
 ## 📌 Sample Job Roles (CSV)
 
-csv
+```csv
 "Software Developer","python, java, git, oop"
 "Data Analyst","python, sql, pandas, excel"
 "ML Engineer","python, sklearn, numpy, pandas, ml"
 "Cybersecurity Analyst","networking, linux, nmap, firewall"
 "Web Developer","html, css, javascript, react"
 
-
+```
 
 
 ## 📑 Future Enhancements
